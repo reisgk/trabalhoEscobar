@@ -1,0 +1,23 @@
+body {
+  background: #181818 !important;
+  color: #fff;
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Inter', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  background: #181818 !important;
+}
+
+#root {
+  min-height: 100vh;
+  background: #181818;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
